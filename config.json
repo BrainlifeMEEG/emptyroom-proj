@@ -1,0 +1,13 @@
+{
+    "fif": "in_dir/emptyroom.fif",
+    "start": 0,
+    "stop": null,
+    "duration": 1,
+    "n_grad": 2,
+    "n_mag": 2,
+    "n_eeg": 0,
+    "reject": null,
+    "flat": null,
+    "n_jobs": 1,
+    "meg": "separate"
+}
